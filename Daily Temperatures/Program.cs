@@ -25,6 +25,7 @@ namespace Daily_Temperatures
                 }
                 stack.Push(i);
             }
+
             return result;
         }
     }
